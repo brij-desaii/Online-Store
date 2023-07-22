@@ -1,0 +1,8 @@
+New product with product id 1 added to inventory
+New product with product id 2 added to inventory
+New product with product id 3 added to inventory
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+1	Pen	30	10
+2	Pencil	25	5
+3	notebook	15	80
